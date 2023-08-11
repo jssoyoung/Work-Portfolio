@@ -27,9 +27,14 @@ function Form() {
     }
   };
 
-  const handleValidation = (e) => {
-    
-  };
+  const handleValidation = (email) => {
+    const emailRegex = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,}$/i;
+    if (emailRegex.test(email)) {
+     console.log("Success");
+    } else {
+   console.log("Invalid email");
+    }
+  }
 
   const handleFormSubmit = (e) => {
     // Preventing the default behavior of the form submit (which is to refresh the page)
@@ -51,7 +56,6 @@ function Form() {
 
   return (
     <div>
-      <p>Hello {name}</p>
       <form className="form">
         <input
           value={email}
