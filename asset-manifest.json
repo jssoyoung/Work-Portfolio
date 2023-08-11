@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94262e2e.css",
+    "main.js": "/static/js/main.bdb43edf.js",
+    "static/media/pet-locators.png": "/static/media/pet-locators.0fbd53dd60d7c289d24e.png",
+    "static/media/Leafy-locators.png": "/static/media/Leafy-locators.7bbed2c8f6061ba74d5a.png",
+    "static/media/portfolio-pic.jpg": "/static/media/portfolio-pic.d999d4119510aff4b0f7.jpg",
+    "static/media/resume.pdf": "/static/media/resume.b0309fafdce059d65718.pdf",
+    "index.html": "/index.html",
+    "main.94262e2e.css.map": "/static/css/main.94262e2e.css.map",
+    "main.bdb43edf.js.map": "/static/js/main.bdb43edf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94262e2e.css",
+    "static/js/main.bdb43edf.js"
+  ]
+}
