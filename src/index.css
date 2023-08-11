@@ -17,7 +17,8 @@ body {
   margin: 0 15px;
   border-radius: 4px;
   padding: 5px;
-  padding-left: 60px;
+  width: 200px;
+
 }
 
 button {

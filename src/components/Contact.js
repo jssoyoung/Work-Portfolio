@@ -16,6 +16,7 @@ function Form() {
     const { target } = e;
     const inputType = target.name;
     const inputValue = target.value;
+    setErrorMessage('');
 
     // Based on the input type, we set the state of either email, name, and password
     if (inputType === 'email') {
@@ -46,6 +47,8 @@ function Form() {
       // We want to exit out of this code block if something is wrong so that the user can correct it
       return;
       // Then we check to see if the message is not valid. If so, we set an error message regarding the message.
+    } else {
+        window.alert('Your mesage was sent!')
     }
 
     // If everything goes according to plan, we want to clear out the input after a successful registration.
