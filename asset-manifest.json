@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/Work-Portfolio/static/css/main.94262e2e.css",
-    "main.js": "/Work-Portfolio/static/js/main.b9328ef7.js",
+    "main.css": "/Work-Portfolio/static/css/main.d73372cf.css",
+    "main.js": "/Work-Portfolio/static/js/main.7dc4fe7d.js",
     "static/media/pet-locators.png": "/Work-Portfolio/static/media/pet-locators.0fbd53dd60d7c289d24e.png",
     "static/media/Leafy-locators.png": "/Work-Portfolio/static/media/Leafy-locators.7bbed2c8f6061ba74d5a.png",
     "static/media/portfolio-pic.jpg": "/Work-Portfolio/static/media/portfolio-pic.d999d4119510aff4b0f7.jpg",
+    "static/media/planner-screenshot.png": "/Work-Portfolio/static/media/planner-screenshot.19967132fadb767429fd.png",
+    "static/media/javascript-quiz-screenshot.png": "/Work-Portfolio/static/media/javascript-quiz-screenshot.0bffc6f79a290dec7d7d.png",
+    "static/media/Portfolio-screenshot.png": "/Work-Portfolio/static/media/Portfolio-screenshot.f788fd432ab11647bef7.png",
     "static/media/resume.pdf": "/Work-Portfolio/static/media/resume.b0309fafdce059d65718.pdf",
+    "static/media/Note-taker.png": "/Work-Portfolio/static/media/Note-taker.b246011ff4236bcbf8e1.png",
+    "static/media/Text-Editor.png": "/Work-Portfolio/static/media/Text-Editor.180d4a2b8c3c9fad3653.png",
     "index.html": "/Work-Portfolio/index.html",
-    "main.94262e2e.css.map": "/Work-Portfolio/static/css/main.94262e2e.css.map",
-    "main.b9328ef7.js.map": "/Work-Portfolio/static/js/main.b9328ef7.js.map"
+    "main.d73372cf.css.map": "/Work-Portfolio/static/css/main.d73372cf.css.map",
+    "main.7dc4fe7d.js.map": "/Work-Portfolio/static/js/main.7dc4fe7d.js.map"
   },
   "entrypoints": [
-    "static/css/main.94262e2e.css",
-    "static/js/main.b9328ef7.js"
+    "static/css/main.d73372cf.css",
+    "static/js/main.7dc4fe7d.js"
   ]
 }
